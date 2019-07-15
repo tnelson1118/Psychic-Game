@@ -1,0 +1,9 @@
+/* basic text styleing */
+
+#header {
+    text-align: center;
+}
+
+#left-col, #right-col {
+    text-align: center;
+}
